@@ -1,1 +1,2 @@
-# Amazon-HackOn
+# Amazon
+Frontend and backend for amazon
